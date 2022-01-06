@@ -6,7 +6,8 @@
 
 <script>
 export default {
-  //we define a props that is used as a class name with the '.flat' selector (ex. in LearningRecipe.vue)
+  //we define a props that is used as a class name with the '.flat' selector (--> TheRecipes.vue)
+  //see also template above <button :class="mode">
   props: ['mode'],
 };
 </script>

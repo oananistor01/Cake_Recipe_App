@@ -5,7 +5,7 @@
 
 <script>
 import TheHeader from './components/layouts/TheHeader.vue';
-import TheRecipes from './components/learning-recipes/TheRecipes.vue';
+import TheRecipes from './components/baking-recipes/TheRecipes.vue';
 
 export default {
   components: {

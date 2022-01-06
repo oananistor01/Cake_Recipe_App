@@ -31,8 +31,7 @@ export default {
     },
   },
 
-  //we define a custom event, that is used for the Close button and also when clicking anywhere else on the screen outside the dialog error message
-  emits: ['close'],
+  emits: ['close'], //we define a custom event, that is used for the Close button and also when clicking anywhere else on the screen outside the dialog error message
 };
 </script>
 
